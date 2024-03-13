@@ -1,0 +1,2 @@
+# IBM_mini_project_submission_yf
+IBM_mini_project_submission using yfinance and beautifulsoup
